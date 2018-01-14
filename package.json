@@ -1,0 +1,22 @@
+{
+  "name": "wp_glorious",
+  "version": "1.0.0",
+  "description": "wordpress theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwill9999/wp_glorious.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "jason williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwill9999/wp_glorious/issues"
+  },
+  "homepage": "https://github.com/jwill9999/wp_glorious#readme"
+}
